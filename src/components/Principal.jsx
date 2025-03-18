@@ -1,10 +1,10 @@
 import styled from "styled-components"
 import Perguntas from "./Perguntas"
 
-function Principal({cartas}){
+function Principal({cartas, atualizarContador}){
 return (
     <Lista>
-    {cartas.map((carta, index) => <Perguntas pergunta ={carta.pergunta} resposta={carta.resposta} i={index} key={index}/>)} 
+    {cartas.map((carta, index,) => <Perguntas pergunta ={carta.pergunta} resposta={carta.resposta} i={index} key={index} atualizarContador={atualizarContador}/>)} 
     </Lista>
 )
 }

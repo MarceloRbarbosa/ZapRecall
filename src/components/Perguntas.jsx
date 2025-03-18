@@ -6,7 +6,7 @@ import erro from '../assets/icone_erro.png'
 import certo from '../assets/icone_certo.png'
 import quase from '../assets/icone_quase.png'
 
-function Perguntas({pergunta, resposta, i}){   
+function Perguntas({pergunta, resposta, i, atualizarContador}){
     const [ladoPergunta, setLadoPergunta]= useState(false);
     const [exibirResposta, setExibirResposta] = useState(false);
     const [corTexto, setCorTexto] = useState('');
@@ -31,6 +31,10 @@ setCorTexto(cor);
 setIcone(novoIcone);
 setRespondido(true);
 setTravar(true);
+
+if ( !travar) {
+    atualizarContador();
+}
 }
     
 return (

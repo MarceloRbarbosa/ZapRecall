@@ -1,13 +1,12 @@
-import { useState, useSyncExternalStore } from "react"
+import { useState } from "react"
 import styled from "styled-components"
 
 
-function Rodape({cartas}){
-    const [contador , setContador] = useState(0);
+function Rodape({contador, tamanho}){
 
     return (
     <BarraInferior >
-        <span >  CONCLUÍDOS</span>
+        <span >{contador} / {tamanho} CONCLUÍDOS</span>
     </BarraInferior>
     )
 }

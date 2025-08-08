@@ -4,7 +4,7 @@
 
 O objetivo deste projeto é oferecer um aprendizado de maneira divertida, com decks de flashcards que podem ser personalizados com qualquer tema de interesse. Ao responder corretamente, você recebe um feedback com três opções: "Não lembrei", "Quase não lembrei", e "Zap!". 
 
-📱 Acesse aqui: [https://vercel.com/marcelo-ribeiros-projects-cdcb9c89/zap-recall](https://vercel.com/marcelo-ribeiros-projects-cdcb9c89/zap-recall)
+📱 Acesse aqui: [https://vercel.com/marcelo-ribeiros-projects-cdcb9c89/zap-recall](https://zap-recall-six-eta.vercel.app/)
 
 ---
 

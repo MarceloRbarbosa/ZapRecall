@@ -4,11 +4,11 @@
 
 O objetivo deste projeto é oferecer um aprendizado de maneira divertida, com decks de flashcards que podem ser personalizados com qualquer tema de interesse. Ao responder corretamente, você recebe um feedback com três opções: "Não lembrei", "Quase não lembrei", e "Zap!". 
 
-📱 Acesse aqui: [https://vercel.com/marcelo-ribeiros-projects-cdcb9c89/zap-recall](https://zap-recall-six-eta.vercel.app/)
+ Acesse aqui: [https://vercel.com/marcelo-ribeiros-projects-cdcb9c89/zap-recall](https://zap-recall-six-eta.vercel.app/)
 
 ---
 
-## 💡 Sobre o projeto
+##  Sobre o projeto
 
 O app Zap Recall possui um deck de pelo menos 8 flashcards. Ao interagir com os cartões, o usuário pode ver as perguntas e tentar lembrar as respostas. O estado do flashcard é alterado conforme a resposta do usuário, com um contador de perguntas respondidas.
 
@@ -20,7 +20,7 @@ Funcionalidades principais incluem:
 
 ---
 
-## 🔧 Tecnologias usadas
+##  Tecnologias usadas
 
 - **React** (para construção da interface)
 - **JavaScript** (lógica de funcionamento)
@@ -29,7 +29,7 @@ Funcionalidades principais incluem:
 
 ---
 
-## 🚀 Funcionalidades principais
+## Funcionalidades principais
 
 - **Deck de Flashcards:** Conjunto de 8 flashcards interativos.
 - **Exibição de Flashcards:** Cartões virados para baixo, com interação para revelar a pergunta e a resposta.
@@ -38,7 +38,7 @@ Funcionalidades principais incluem:
 
 ---
 
-## 📜 Requisitos
+##  Requisitos
 
 - **React** (para a construção da interface)
 - **JavaScript puro** (sem uso de Context ou Router)
@@ -47,7 +47,7 @@ Funcionalidades principais incluem:
 
 ---
 
-## 🛠 Como rodar
+##  Como rodar
 
 Se quiser testar localmente, siga os seguintes passos:
 
